@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 361B-FD57
+
+ Directory of C:\Users\Mahendra Chary\Desktop\New folder
+
+31-10-2019  16:31    <DIR>          .
+31-10-2019  16:31    <DIR>          ..
+31-10-2019  16:31                 0 first.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  167,627,485,184 bytes free
